@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ignoramus his conviction: shewing the necessity and excellency of frequent hearing and preaching the sacred Word of God. / Written by one who is a hater of schisme, and humble supplyant as the throne of grace, for the perfecting of a right reformation, answerable to the Word of God, and agreeable to the holy and godly conversations of the righteous. Very necessary for all sort of people to reade. in these sad and wofull times. Imprimatur John Downame.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87317</idno><idno type="EEBO-CITATION">99864095</idno>
+  <idno type="VID">116314</idno>
+  <idno type="EEBO-PROQUEST">2240905411</idno>
+  
+            <idno type="STC">Wing I44</idno>
+            <idno type="STC">Thomason E429_14</idno>
+            <idno type="STC">ESTC R204630</idno>
+            <idno type="PROQUEST">99864095</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864095e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116314)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E429[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ignoramus his conviction: shewing the necessity and excellency of frequent hearing and preaching the sacred Word of God. / Written by one who is a hater of schisme, and humble supplyant as the throne of grace, for the perfecting of a right reformation, answerable to the Word of God, and agreeable to the holy and godly conversations of the righteous. Very necessary for all sort of people to reade. in these sad and wofull times. Imprimatur John Downame.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Feb 29"; the 8 in imprint date crossed out and date altered to 1647.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">God --  Worship and love --  Early works to 1800.</term>
+               <term type="topical_term">Public worship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116314:1"/>
+            <p>IGNORAMUS HIS CONVICTION: <hi>SHEWING</hi> The necessity and excellency of frequent Hearing and Preaching the sacred Word of GOD.</p>
+            <p>Written by one who is a hater of Schisme, and humble supplyant at the Throne of Grace, for the perfecting of a right Reformation, answerable to the Word of God, and agreeable to the holy and godly conversations of the righteous.</p>
+            <q>
+               <bibl>JER. 23.11.</bibl>
+               <p>For both Prophet and Priests are prophane, yea, in my house have I found their wickednesse, saith the Lord.</p>
+            </q>
+            <q>
+               <bibl>2 TIM. 4.2.</bibl>
+               <p>Preach the Word, be instant in season, out of season, reprove, rebuke, exhort with all long suffering and Doctrine.</p>
+            </q>
+            <q>
+               <bibl>PSAL. 37.23.</bibl>
+               <p>The steps of a good man are ordered by the Lord, and he delighteth in his way.</p>
+            </q>
+            <p>Very necessary for all sort of people to reade. in these sad and worfull times.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>John Downame.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, <hi>Printed for</hi> R. L. <hi>Anno Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116314:2"/>
+            <pb facs="tcp:116314:2"/>
+            <head>IGNORAMVS CONVICTION.</head>
+            <p>BEfore God of late of his Infinite Mercie was seen in the Mount of our Extreamities, turning our now Captivitie (in some sort) as rivers in the South, leaping by the mountaines, and skipping by the hills of our sinnes, flying upon the wings of the winde for our Beleefe; in so wonderfull a manner, as praised be his Name, now appeares. Many Engines were used by all appearance, to subvert and overthrow, the Liberties both of this Church and State; whilst the sonnes of <hi>Beliall</hi> (Sa<g ref="char:EOLhyphen"/>tans Instruments) left no meanes un-attempted, whereby they might both openly assault, and (failling that) privately undermine and roote out the Power and life of godlinesse, yea, even under shew of love ayming at the overthrow of Religion, under pretence of freindship and brotherly love: as <hi>Jacob</hi> in the death of <hi>Abner.</hi>
+            </p>
+            <p>In ayming to effect so strong a designe (as appeareth since was then in some of their heads) this in show was a strong <hi>Catholicon</hi> Ingredient, in their secret Counsells, so far as they might or were in hope to Prevaile with any; <hi>That Poporde was no Idolatri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> by which maxime received, they poy<g ref="char:EOLhyphen"/>soned the seat of <hi>Judgement, Understanding</hi> and <hi>Reason,</hi> so making way unto their Intentious. Iust <hi>Ieroboams</hi> Policie, which God scourged with the overthrow of him and his posteritie: for sure his Calfes worship, was by God himself both so pronounced and punished in him and his. And I hope any reasonable men may suppose, that their is the same Idolatrie, If not greater, in falling down before a peece of bread, then was in worshiping a living Calfe which the Egyptians Adored, and in Imitation whereof, both <hi>Jeroboam,</hi> and the Israelits before him made their golden Calfes, for which they suffered their severall punishments.</p>
+            <p>For manie, yeares together holy Ministers first were disgraced, discoun<g ref="char:EOLhyphen"/>tenanced, suppressed, Imprisonned, occasionally, they their wives and child<g ref="char:EOLhyphen"/>ren, starved and famished, for any reliefe they had from them, and their be<g ref="char:EOLhyphen"/>nifices sequestred, for not subscription unto catching cruell Articles of their own Invention, made to entrap, ensnare, keepe forth and thrust forth, con<g ref="char:EOLhyphen"/>scionable and holy Ministers out of their livings and habitations, this way to their power, dishartning, over-awing and keeping down, the vigorou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> spirits of Professors of the power of practicall Religion, therewith strength<g ref="char:EOLhyphen"/>ing the enemies thereof, heaping up there with and dispersing all the Infa<g ref="char:EOLhyphen"/>mous
+<pb facs="tcp:116314:3"/>scandalls and lies which possibly subtiltie and malice could invent a<g ref="char:EOLhyphen"/>gainst all those most conscionable of their wayes.</p>
+            <p>Secondly, such men were onely put in entrusted for the most to preach at Court▪ <hi>Pauls,</hi> with all such open places before Authoritie and multitudes, as would Cry down Preaching and Exalt Prayer (strict helpers to one ano<g ref="char:EOLhyphen"/>ther) and what Prayers? Common Prayer I warrant you (their then <hi>Diana</hi>) for Pulpit Sermon prayers suffered and were tortured with preaching it self, and the frequency thereof. And herein those men entrusted to preach openly &amp; before Authority; all ways choosed some such Texts wherein they jerked both thestrictness of Religion it selfs ralled at its best Preachers, condemning all of them as factious seditious men, perturbers of the State, &amp; withstanders of Authority, because they would not, durst not, or could not in Conscience, subscribe and yeild unto their Fooleries and Ceremonies. Though otherwise <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cry quiet peaceable men, and peacemakers, rather then sowers of disspen<g ref="char:EOLhyphen"/>tions and divisions, like manie now amongst us. But then with those men in the height of their way, no Holinesse was notified in any, saving Sub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cription and Common Prayer Pietie: whereby they aymed in time to purge he Church of these disturbing Puritans, which noble Nickname, they in great contempt and derision gave them, hoping within a while to rid this Kingdome of them all.</p>
+            <p>But this Course not prevailing, and Religions Pietie like the people of God in <hi>Egypt,</hi> the more they were troden upon, like the <hi>Cammomile,</hi> mounting, growing and prospering so much the more: a course was taken to keepe out all holy and good men from the Ministery, and government of the Church, and let in onely such as would advance their endes into all dignities and spirituall preferments of any worth, having a Role of their favourites names ready who should succeed, in the vacancie of any livings of worth: kept by their grand Captaine, so that it was usually knowne and noied in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ny preferments who should next succeed. So that by this meanes Cruell <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd Prophane men, (<hi>Arm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nians</hi> at best) dropt into all livings, such who would be sure to keep down, discountenance, and undermine the life of pie<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, being as prickles and thornes in the sides of all good men: whereby in this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me, in their Judgement a good progresse was made, both for their Inten<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ojects against the power of godlinesse, with advancement of Super<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tion and Atheisme: Properies two grand ushers: though some good men <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ere now and then put in, to sylemens eyes from looking which way the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of their Current run.</p>
+            <p>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s thus drawing towards a head, now the glorie of former banish<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and removed Altars must up againe. The former wisedome of this State
+<pb facs="tcp:116314:3"/>in displacing them were accounted <hi>Ignoramusis,</hi> not knowing how to place them, they must again stand up mounting steps for perspecuity, as they did of old Alter-ways, men must now bow before them, with strict Injunction also to bow at the Name of Jesus, and yet to good men in snares whom otherwayes they knew not how to Intrap, for adorning of disgraced degraded Copes, their must be an after service, performed at both ends of the Altar, with low bowing at their approach unto it: apparelled for feare of colde, with gaudie Copes. Whereunto (save the pleasure of Authoritie) it had beene much better, to have used them like that menstru<g ref="char:EOLhyphen"/>ous Cloth spoken of by the Prophet, saying unto them with abomination, get thee hence. Thus insensibly under shew of Order did some of them make way unto all confusion: that so as some of them have pleaded, though they had no Intention to bring in Poperie, yet Poperie (more bold then welcome) having recovered Illimited courage and strength, might forci<g ref="char:EOLhyphen"/>bly either thrust in it selfe wholly, or else for quietnesse or peace sake enforce a Toleration with us by Power, untill it might in time wholy dispossesse us at its pleasure. To which purpose often and frequent Masses, in many corners of Popish Chappells and liberties were allowed, with as full and free concours unto them as unto our Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mōs, by many thousands every morning.</p>
+            <p>But all these not sufficiently to their mindes prevailing so long as after noone Sermons were a foot which revived and quickned the life of grace, advancing pietie and undermining all their designes, a course was taken, so to suppresse preaching and the power of pietie, and entrap the best men in further snares, whom otherwise by their unconformitie they could not sup<g ref="char:EOLhyphen"/>presse, and who opposed their enormities. Which course of theirs, it pleased God, being universally murmured at, and cryed out against, neither prosper<g ref="char:EOLhyphen"/>ed nor lasted long, any where, save where some of their rotten Instruments, exercised their Tyrannick power, Lording it to some purpose, so far as one of them wrote a triumphant▪ if not an infamous letter unto one of the Brother<g ref="char:EOLhyphen"/>hood, (boasting of Impietie) That praised be God, That weeke past their had not been one after noone Sermon in all his Diocesse. O fearfull! No wonder then, when the hearts of these men began to be so Impious, as to glory of their shame, and boast of mischiefe, that it was a sure foreru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner of ruine, because as before destruction the heart of man is haughty, so humility, is a sure usher unto Honour. By all which it appeared, that conformity to Ceremonies, (though they veiled their other purposes therewith) was not that they aymed at: but to root out the life and Power of Pietie, that at length Popery might by force jus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le in it selfe, and at length as formerly Command all.</p>
+            <pb facs="tcp:116314:4"/>
+            <p>And wonder it was, that when the Lord commands to preach the word i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> season and out of season, and to be instant: this being Heavens high read to advance pietie, encrease faith, and beautifie the glorious strength of the New Creature: that yet those <hi>Ignoramuses,</hi> would take this open course against Religion in the face of Heaven and Earth to be so bold and Impudent, as to endeavour to overthrow all? But no wonder it was, when all of them were ruled by one or a few, who had it seemed so strictly besieged all Religious strongest holds and forts, that all went wrong; endeavouring to poyson the Fountaines of Authority, so to wind all, that they did what they listed: and so Religion had extreamly suffered, had not God been seen in the Mount of our extreamities, infatuating and taking (as usually his custome is) such men to fall by their own counsells. Whereby now the whole Body of Epis<g ref="char:EOLhyphen"/>copacy, with all theirs, are in danger to suffer, though their were then a<g ref="char:EOLhyphen"/>mongst them, many holy learned, mercifull, pious, discreet and wise men, free from the death of the Councels devices▪ and imaginations of these ring<g ref="char:EOLhyphen"/>leaders▪ wishing things might have been carried to have runne in a more smooth and milde current. For which cause a late Bishop of that fraternity, condoling their estat<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: thus wrote to one of the fraternity, his feare, least one mans fierce violence, would undoe them all: who now are all in danger to suffer and smart with the worser sort. In having too much connived with them in countenancing their actions, in notwithstanding their oppressions and exorbitancies, in not timely diswading them from their violent courses, having served them in divers uses, in bearing pressures and burden<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their imposing, and in some things in serving their unjustnesse. And in not remo<g ref="char:EOLhyphen"/>ving the causes of such oppressions, the snares and devices to catch and intrap good men, for so many yeares together lapt up in these late Remaining Ceremonies.</p>
+            <p>And truely, it appeares that these famous worthies who first reformed this Church, (some of them after that proving Martyr-Bishops) when they left these Ceremonies lately in the Church, doing a way others, never thought or imagined either to have retained them so long, or that they should have beene made snares or baits to catch good Ministers in, keepe out some, put others forth, and worser in their places, and to have proved the causes of so many fierce contentions and oppositions for so many yeares since.</p>
+            <p>For in that Preface unto their Service Booke: Authorized by King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the Sixth, they to this purpose write. <hi>We have not in abolishing of other Ceremonies and leaving of these, done the same for any holinesse, worth, or use, we have or imagine to make of them, more then of the residue abolished; or for any purpose we have still to reteine the same, but in time to do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> those away also.
+<pb facs="tcp:116314:4"/>Onely because we would not too soon dete<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the people, by abbrogating of all sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the former Service in the Masse; to wind them to Religion by degrees, we therefore have left these few Ceremonies, to make some shew of the former ser<g ref="char:EOLhyphen"/>vice, having in substance purged and taken away the grosse superstitions, that they might the sooner be woond to like of the Reformation made: not to be out of love with Religion before they know it; having some shewes and shadowes of the former Service; these Ceremonies in time also to be removed.</hi>
+            </p>
+            <p>But what hast their successors have made in this kinde to have removed these offending stumbling blockes, is evidently knowne, most apparant and wofull; in that they have not onely retained, but also abused those Ceremonies unto the hurt of others, urging them with such heate of sevexity <hi>(usque ad Ara<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>)</hi> yea as Divine Oracles, making of others suffer for not conforming unto them: having also added more unto these, as though, <hi>Their litle finger should be heavier then their predecessors whole hand,</hi> and all this under pretence of <hi>Unity, Conformity,</hi> and <hi>Order:</hi> a wofull Unity, Order and Conformity, that now hath bred, and been the Author of so much confusion, destruction, and disorder: so as now the Power of godli<g ref="char:EOLhyphen"/>nesse and life of grace in pure preaching, hath been in danger to have been overthrown, whilest for many yeares together, Publike Service strove and strugled to cry down Preaching, and exalt Prayer (as they said) as though they were not both exact h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lpers to one another, as hath been touched, by their crying down of after noon Sermons.</p>
+            <p>Wherein so blockish were some of them as to restraine Preaching under pretext, <hi>That one Sermon a day was enough, and more then any man could practise in many yeares together:</hi> the Refutation of which grosse errour, produced now this short discourse, to shew, <hi>both the excellency and necessity of often Hearing and Preaching:</hi> and to confute these prophane <hi>Ignor amuses.</hi>
+            </p>
+            <p>A wonder it is, that for the supportation of the life of grace, in that which shrould cherish the Immortall soule, in its wonderfull actings, To Fore see, pevent, gathertogether, multiply, survey, conclude, invent, purpose, di<g ref="char:EOLhyphen"/>spute, discourse, choose, refuse, resolve, judge and determine of all things Rationally, dwelling in the darke Prison of a lumpish Body (good for nothing without it) where it hath so manie hinderances and lets, besides its naturall depravation untill Illuminated that heereunto they are contented to allow only one meale a weake and day; when they can allow the body constantly two meales sometimes three every day, not understanding, <hi>The ends, right use and causes, of often and freequent Preaching and Hearing,</hi> which are <hi>Three,</hi> and wherewith I will conclude.</p>
+            <p>First for <hi>Conversion,</hi> in which case, untill <hi>Illumination,</hi> we are just like unto that impotent man, who lay so long at the poole of <hi>Bethesda,</hi> waiting when the Spirit of grace, will so blow by some of the Angel Ministers, as that we may be Converted. In which case what is not, to day, this weeke,
+<pb facs="tcp:116314:5"/>weeks, a moneth, moneths, a yeare, yeares, yea in many yeares effected: yet may come to passe at length: so as men must wait still, when the winde of he Spirit will blow with the means, and so trouble the muddy waters of our corruptions, (throwing us into the Poole of Regeneration) as Conversion may be wrought. For which cause hearers must waite, and <hi>heare the word in season and out of season, as Ministers are bound to Preach the same:</hi> And the more the better, untill Christ by the Newbirth, may see of the travell of his soule and be satisfied: that he thereby be formed in them.</p>
+            <p>Secondly, being Newborne, we must not now stand still, but grow in grace and in the knowledge of our Lord Jesus Christ, from faith to faith, and grace to grace, untill we come unto a perfect man in Christ, in the beau<g ref="char:EOLhyphen"/>ty of the New Creature: to be built up in that riches of understanding spoken of, so to put on the Lord Jesus in all his holy vertues, being transformed into his Image from glory to glory, to be as like him as may be. For this cause also, the word cannot be to often and frequently preached and Heard, both in season and out of season, to be built up daily more and more in Heavenly knowledge unto life everlasting, to be fully Sanctified and endowed with a great deal of grace here, that thereby we may be so much the fitter vessells, prepared for so much the more glory.</p>
+            <p>And Thirdly, our fraile house of Clay &amp;c. Wherein the Immortall soule hath its habitation here, the life of grace thereof must still be kept in re<g ref="char:EOLhyphen"/>paration: we have backslidings, and are to encounter with many temptati<g ref="char:EOLhyphen"/>ons. Troubles, Vexations, Discouragements, having many Spirituall diseases to be cured: as Satan is cunning to assualt us full of trouble. And also the soule is to be kept in Spirituall life, courage and vigour, which not one or many dayes hearing can effect: to make up the every day miseries of our life renewed from day to day which we are sure and forced to encounter with. This daily and often Preaching effects, to Cure, Mitigate, Answer, and heale daily, all our Spirituall diseases and doubtings, quickning our dulnesse to helpe the life of Faith, encrease, maintaine, and renew our comforts, to keepe them alwaies upon the winge as it were, to cheere, encourage and harten us on in our Spirituall Journey homewards. So that having so many enemies, difficulties, temptations and troubles, to encounter with from the world, the flesh and the Devill: and the surmountingly glorious fabrique of of the New Creature to erect and build up as neere as may be in its beau<g ref="char:EOLhyphen"/>ty, Excellency and Eminency; we cannot upon all occasions, either heare too much or too often, neither (as some think) can their be too much Preaching, which by the assistance and push of the Spirit, during all our life time, and daily, hath all these and many more wonders to worke: all which I hope willbe sufficient for <hi>Ignoramu's Conviction.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
